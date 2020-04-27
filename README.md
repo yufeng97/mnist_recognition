@@ -1,4 +1,4 @@
-# mnist_recognition
+## MNIST_recognition
 a small demo for MNIST using Flask to deploy Pytorch via RESTful API
 
 ### Dependency
@@ -6,6 +6,9 @@ a small demo for MNIST using Flask to deploy Pytorch via RESTful API
 * Flask
 * Flask-RESTful
 * ONNX Runtime
+
+### Screenshot
+![1](static/screenshot.png "screenshot")
 
 ### Demo
 ```
